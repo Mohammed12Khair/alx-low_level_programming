@@ -1,7 +1,6 @@
-#!/bin/bash
+#include <stdio.h>
 
-/**
- *main - this function will jsut print 
+/* *main - this function will jsut print 
  *Return:0 mens its ok
  *
  *
