@@ -2,8 +2,8 @@
 
 
 /**
- * This is function details and logic
- *
+ * main - This is function details and logic
+ *Return: 0 is function is ok
  *
  *
  */
